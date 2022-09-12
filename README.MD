@@ -1,4 +1,4 @@
-# Elementi d'Informatica e Programmazione (EIP)
+# Elementi d'Informatica et Programmazione (EIP)
 
 ## Diario delle lezioni
 
@@ -9,6 +9,6 @@ Il calcolatore; conoscenza *dichiarativa* ed *imperativa*; esempio, la radice qu
 #### Materiale didattico
 
 - [Python Tutor](https://pythontutor.com/) 
-- [Slide](../slides/01.pdf)
-- [00-sqrt.py](../code/00-sqrt.py)
-- [01-intro.py](../code/01-intro.py)
+- [Slide](/slides/01.pdf)
+- [00-sqrt.py](/code/00-sqrt.py)
+- [01-intro.py](/code/01-intro.py)
