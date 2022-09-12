@@ -1,4 +1,4 @@
-# Elementi d'Informatica et Programmazione (EIP)
+# Elementi d'Informatica e Programmazione (EIP)
 
 ## Diario delle lezioni
 
