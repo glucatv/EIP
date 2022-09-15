@@ -22,7 +22,7 @@ Interagire con l'interprete attraverso i *notebook* di *Jupyter*. La funzione `i
 #### Materiale di supporto
 
 - [02-lezione2](/code/02-lezione2.ipynb)
-- [Video](https://uniroma2-my.sharepoint.com/:v:/g/personal/gianluca_rossi_uniroma2_eu/EcNrTJ06vplEnY4Fq2vv9McBiccSrnQC3E5Qk6mWaz3Igw?e=1AwueY)
+- [Video](https://uniroma2-my.sharepoint.com/:v:/r/personal/ercole_angelucci_uniroma2_eu/Documents/Registrazioni/Corso%20I_%20Elementi%20d%27Informatica%20et%20Programmazione%20%28EIP%29-20220913_105128-Meeting%20Recording.mp4?csf=1&web=1&e=iB6t7L)
 
 
 
