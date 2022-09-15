@@ -21,14 +21,16 @@ Interagire con l'interprete attraverso i *notebook* di *Jupyter*. La funzione `i
 
 #### Materiale di supporto
 
-- [02-lezione2](/code/02-lezione2.ipynb)
+- [02-lezione2.ipynb](/code/02-lezione2.ipynb)
 - [Video](https://uniroma2-my.sharepoint.com/:v:/r/personal/ercole_angelucci_uniroma2_eu/Documents/Registrazioni/Corso%20I_%20Elementi%20d%27Informatica%20et%20Programmazione%20%28EIP%29-20220913_105128-Meeting%20Recording.mp4?csf=1&web=1&e=iB6t7L)
 
 
 ### Lezione III: 2022-09-15
 
-*TODO*
+L'istruzione `return` per uscire anticipatamente da una funzione; l'istruzione `break`; operatori logici `and`, `or`, `not`; i metodi; metodi di `str` (`find`, `replace`, `upper`, `islower`,...); uso per le funzioni `dir` e `help` per ottenere informazioni sui metodi disponibili. Le liste: indicizzazione, slicing; `len`; mutabilità; i metodi `append`, `insert`, `remove`, `index`, la funzione `del`. Aliasing e clonazione di liste; clonazione di secondo livello.
 
 #### Materiale di supporto
 
-- [Video](https://uniroma2-my.sharepoint.com/:v:/g/personal/ercole_angelucci_uniroma2_eu/EQImYAuDSzJNl1Urnma2acMBWGgDiBPDmSGb9RVYHOvyoQ)
+- [03-lezione3.ipynb](/code/03-lezione3.ipynb)
+- [Documentazione ufficiale](https://www.python.org/)
+- [Video](https://uniroma2-my.sharepoint.com/:v:/g/personal/gianluca_rossi_uniroma2_eu/Eagf5sTPMqBPi-MzfCkQVbwBQ0Y18okCr7KgR_u1qSrfMQ)
