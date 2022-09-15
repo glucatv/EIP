@@ -25,5 +25,10 @@ Interagire con l'interprete attraverso i *notebook* di *Jupyter*. La funzione `i
 - [Video](https://uniroma2-my.sharepoint.com/:v:/r/personal/ercole_angelucci_uniroma2_eu/Documents/Registrazioni/Corso%20I_%20Elementi%20d%27Informatica%20et%20Programmazione%20%28EIP%29-20220913_105128-Meeting%20Recording.mp4?csf=1&web=1&e=iB6t7L)
 
 
+### Lezione III: 2022-09-15
 
+*TODO*
 
+#### Materiale di supporto
+
+- [Video](https://uniroma2-my.sharepoint.com/:v:/g/personal/ercole_angelucci_uniroma2_eu/EQImYAuDSzJNl1Urnma2acMBWGgDiBPDmSGb9RVYHOvyoQ)
