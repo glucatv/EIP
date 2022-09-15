@@ -31,4 +31,4 @@ Interagire con l'interprete attraverso i *notebook* di *Jupyter*. La funzione `i
 
 #### Materiale di supporto
 
-- [Video](https://uniroma2-my.sharepoint.com/:v:/g/personal/ercole_angelucci_uniroma2_eu/EQImYAuDSzJNl1Urnma2acMBWGgDiBPDmSGb9RVYHOvyoQ)
+- [Video]() *soon*
