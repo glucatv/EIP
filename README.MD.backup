@@ -12,6 +12,7 @@ Il calcolatore; conoscenza *dichiarativa* ed *imperativa*; esempio, la radice qu
 - [Slide](/slides/01.pdf)
 - [00-sqrt.py](/code/00-sqrt.py)
 - [01-intro.py](/code/01-intro.py)
+- [Video](https://uniroma2-my.sharepoint.com/:v:/g/personal/gianluca_rossi_uniroma2_eu/EcNrTJ06vplEnY4Fq2vv9McBiccSrnQC3E5Qk6mWaz3Igw?e=1AwueY)
 
 
 ### Lezione II: 2022-09-13
@@ -20,4 +21,8 @@ Interagire con l'interprete attraverso i *notebook* di *Jupyter*. La funzione `i
 
 #### Materiale di supporto
 
-- [02-]
+- [02-lezione2](/code/02-lezione2.ipynb)
+
+
+
+
