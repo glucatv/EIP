@@ -31,3 +31,12 @@ L'istruzione `return` per uscire anticipatamente da una funzione; l'istruzione `
 
 - [03-lezione3.ipynb](/code/03-lezione3.ipynb)
 - [Documentazione ufficiale](https://www.python.org/)
+
+
+### Lezione IV: 2022-09-19
+
+Ancora sulle liste: concatenazione, ripetizione, funzioni `sum`,  e`len`. Struttura dati dizionari: definizioni; proprietà ed i metodi `keys`, `values`, `items`. Ordinamento di sequenza.
+
+### Lezione V: 2022-09-27
+
+Funzioni come parametro. Parametri di funzione con valori predefiniti. Il parametro `key` delle funzioni `max`, `sorted` e del metodo `sort` ovvero come personalizzare il criteri di ordinamento.
