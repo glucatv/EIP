@@ -39,4 +39,4 @@ Ancora sulle liste: concatenazione, ripetizione, funzioni `sum`,  e`len`. Strutt
 
 ### Lezione V: 2022-09-27
 
-Funzioni come parametro. Parametri di funzione con valori predefiniti. Il parametro `key` delle funzioni `max`, `sorted` e del metodo `sort`.
+Funzioni come parametro. Parametri di funzione con valori predefiniti. Il parametro `key` delle funzioni `max`, `sorted` e del metodo `sort` ovvero come personalizzare il criteri di ordinamento.
