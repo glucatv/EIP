@@ -35,7 +35,7 @@ L'istruzione `return` per uscire anticipatamente da una funzione; l'istruzione `
 
 ### Lezione IV: 2022-09-19
 
-Ancora sulle liste: concatenazione, ripetizione, funzioni `sum`,  e`len`. Struttura dati dizionari: definizioni; proprietà ed i metodi `keys`, `values`, `items`. Ordinamento di sequenza.
+Ancora sulle liste: concatenazione, ripetizione, funzioni `sum`,  e`len`. Struttura dati dizionari: definizioni; proprietà ed i metodi `keys`, `values`, `items`. Ordinamento di sequenze.
 
 ### Lezione V: 2022-09-27
 
