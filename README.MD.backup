@@ -44,3 +44,7 @@ Funzioni come parametro. Parametri di funzione con valori predefiniti. Le funzio
 ### Lezione VI: 2022-09-28
 
 Tuple: definizioni ed operazioni; *packing* e *unpacking*; confronto tra tuple. Ordinamento multicriterio con parametro `key` che ritorna una tupla. I moduli (o librerie): i moduli `random`, `math` e `os`. Funzioni ricorsive.
+
+### Lezione VII: 2022-09-29
+
+Lavorare col *file system* con il modulo `os`. Le funzioni `os.listdir`, `os.getcwd`, `os.path.isfile`, `os.path.isdir`, `os.path.join`. Determinare l'estensione di un file con il metodo `split` delle stringhe. Visita ricorsiva di una cartella e di tutte le sue sottocartelle. Gestire i file di testo: la funzione `open` ed i metodi per la lettura dei file (`read`, `readline`, `readlines`). Aprire i file i

@@ -47,3 +47,4 @@ Tuple: definizioni ed operazioni; *packing* e *unpacking*; confronto tra tuple. 
 
 ### Lezione VII: 2022-09-29
 
+Lavorare col *file system* con il modulo `os`. Le funzioni `os.listdir`, `os.getcwd`, `os.path.isfile`, `os.path.isdir`, `os.path.join`. Determinare l'estensione di un file con il metodo `split` delle stringhe. Visita ricorsiva di una cartella e di tutte le sue sottocartelle. Gestire i file di testo: la funzione `open` ed i metodi per la lettura dei file (`read`, `readline`, `readlines`). Aprire i file in scrittura ed in *append*, il metodo `write`.
