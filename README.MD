@@ -40,3 +40,10 @@ Ancora sulle liste: concatenazione, ripetizione, funzioni `sum`,  e`len`. Strutt
 ### Lezione V: 2022-09-27
 
 Funzioni come parametro. Parametri di funzione con valori predefiniti. Le funzioni `lambda`. Il parametro `key` delle funzioni `max`, `sorted` e del metodo `sort` ovvero come personalizzare il criteri di ordinamento.
+
+### Lezione VI: 2022-09-28
+
+Tuple: definizioni ed operazioni; *packing* e *unpacking*; confronto tra tuple. Ordinamento multicriterio con parametro `key` che ritorna una tupla. I moduli (o librerie): i moduli `random`, `math` e `os`. Funzioni ricorsive.
+
+### Lezione VII: 2022-09-29
+
