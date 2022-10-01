@@ -48,3 +48,9 @@ Tuple: definizioni ed operazioni; *packing* e *unpacking*; confronto tra tuple. 
 ### Lezione VII: 2022-09-29
 
 Lavorare col *file system* con il modulo `os`. Le funzioni `os.listdir`, `os.getcwd`, `os.path.isfile`, `os.path.isdir`, `os.path.join`. Determinare l'estensione di un file con il metodo `split` delle stringhe. Visita ricorsiva di una cartella e di tutte le sue sottocartelle. Gestire i file di testo: la funzione `open` ed i metodi per la lettura dei file (`read`, `readline`, `readlines`). Aprire i file in scrittura ed in *append*, il metodo `write`.
+
+
+## Bibliografia
+
+
+[Think Python, di Allen B. Downey](http://greenteapress.com/thinkpython2/thinkpython2.pdf) Versione *open document* in inglese relativa Python 3. In italiano è disponibile sul catalogo dell'editore [EGEA](https://www.egeaeditore.it/ita/prodotti/ict-e-sistemi-informativi/think-python_.aspx). Acquistabile anche su Amazon, IBS,...
